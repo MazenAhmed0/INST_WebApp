@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+div a{
+    text-decoration: none;
+    color: black;
+}
+
+nav{
+    padding: 10px;
+}
